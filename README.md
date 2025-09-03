@@ -2,7 +2,7 @@
 This is a web-based application designed to interact with music metadata. It provides users with a user-friendly interface to search, view, and manage information about artists, albums and tracks. The project emphasizes responsive design and modularity thanks to React. 
 For a in-depth overview/explanation and screenshots, have a look at this [file](https://github.com/Pyrrhusn/musicmeta-backend/blob/main/dossier.pdf).
 
-#### Technologies Used (not exhaustive)
+#### Technologies Used (non-exhaustive)
 
 - **JavaScript** – The core programming language for application logic and interactivity.
 - **React** – For building a dynamic and responsive user interface.
