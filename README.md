@@ -9,7 +9,7 @@ For a in-depth overview/explanation and screenshots, have a look at this [file](
 - **React Hooks** – Utilized extensively for managing state (`useState`), side effects (`useEffect`), performance optimizations (`useMemo`, `useCallback`), and code modularity.
 - **RESTful API** – Communication with backend services to fetch and manage music metadata.
 - **Chakra UI** - UI component library, used for the layouts, themes and UI elements.
-- **Axios + SWR hook** – For making HTTP requests backend api and manage data.
+- **Axios + SWR hook** – For making HTTP requests to backend api and manage data caching.
 
 #### Dependencies
 Following software is required to run this project:
